@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MigMARTNX
 - 👀 I’m interested in mobile and web development
-- 🌱 I’m currently learning <img width="16" height="16" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/> Flutter and <img width="16" height="16" src="https://img.icons8.com/color/48/dart.png" alt="dart"/> Dart
+- 🌱 I’m currently learning [<img width="16" height="16" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>](https://img.icons8.com/?size=100&id=123603&format=png&color=000000) ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
@@ -15,6 +15,7 @@ Things in which I have basic knowledge:<br>
 <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+<img width="16" height="16" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
 
 Things i'm looking to learn in the future:<br>
 <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/>
