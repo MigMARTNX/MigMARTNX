@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MigMARTNX
 - 👀 I’m interested in mobile and web development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/> ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
