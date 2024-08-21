@@ -20,7 +20,6 @@ Things in which I have basic knowledge:<br>
 Things i'm looking to learn in the future:<br>
 <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
