@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MigMARTNX
 - 👀 I’m interested in mobile and web development
-- 🌱 I’m currently learning [<img width="16" height="16" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>](https://img.icons8.com/?size=100&id=123603&format=png&color=000000) ReactJS
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
